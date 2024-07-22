@@ -1,0 +1,107 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to right,
+            rgb(100, 132, 238) 0%,
+            rgba(87, 43, 209, 0.336) 50%,
+            rgb(27, 27, 27) 50%,
+            rgb(5, 5, 5) 100%);
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin: 0;
+}
+
+main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: left;
+    color: rgb(17, 17, 17);
+    font-style: italic; 
+    text-decoration-style: dotted;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: darkgray;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    align-items: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: rgb(121, 121, 224);
+}
+
+.navbar li {
+    float: inline-start;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 10px;
+    border: 3px solid;
+    margin-right: 20px;
+}
+
+.container {
+    margin: 100px;
+    width: 90%;
+    text-align: end;
+
+}
+
+.text h3 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+}
+
+.text h4 {
+    font-size: 5vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: rgb(94, 110, 77);
+    -webkit-text-stroke: 0.3vw #383d52;
+    text-transform: uppercase;
+    text-align: end;
+}
+
+.text p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    color: whitesmoke;
+    align-items: end;
+}
+.paragraph{
+text-align: left;
+color: whitesmoke;
+font-style: italic;
+}
+.text h5{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    -webkit-text-stroke: #383d52;
+    color: #383d52;
+
+}
+.h4 p{
+    text-align: end;
+}
