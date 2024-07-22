@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I am a self-taught front-end developer with a pa
 
 ## Projects
 
-### [Project 1: Responsive Portfolio Website](https://github.com/johndoe/responsive-portfolio-website)
+### [Project 1: Responsive Portfolio Website](https://olebogengmo.github.io/olebogeng.github.io/)
 A responsive portfolio website built using HTML, CSS, and JavaScript. Features include a gallery of projects, a contact form, and a clean, modern design.
 
 
