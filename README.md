@@ -26,7 +26,7 @@ I am always open to new opportunities and collaborations. If you'd like to get i
 
 ## About Me
 
-Hello! I’m John Doe, a self-taught front-end developer with a passion for creating beautiful and functional websites. My journey into web development began out of a deep curiosity for technology and a love for problem-solving. Without the opportunity to pursue formal education in programming, I took it upon myself to learn through various online resources, tutorials, and courses. This self-driven approach has allowed me to gain a robust understanding of HTML, CSS, and JavaScript, along with other essential web development technologies.
+Hello! I’m Olebogeng Motsanana, a self-taught front-end developer with a passion for creating beautiful and functional websites. My journey into web development began out of a deep curiosity for technology and a love for problem-solving. Without the opportunity to pursue formal education in programming, I took it upon myself to learn through various online resources, tutorials, and courses. This self-driven approach has allowed me to gain a robust understanding of HTML, CSS, and JavaScript, along with other essential web development technologies.
 
 For me, front-end development is the perfect blend of creativity and logic. I enjoy the challenge of bringing designs to life and ensuring that users have the best possible experience on the web. Each project is an opportunity to learn, innovate, and create something impactful.
 
